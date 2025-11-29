@@ -1,0 +1,7 @@
+{
+  "name": "DziVan Smart",
+  "description": "AI-powered construction estimation tool that analyzes architectural drawings to generate material lists and budget estimates using real-time market data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
